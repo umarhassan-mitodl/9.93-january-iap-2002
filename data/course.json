@@ -1,0 +1,45 @@
+{
+  "term": "January IAP",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "864bc319-f9d9-5331-c077-632c4eb4c063",
+  "instructors": {
+    "content": [
+      "77c373cf-340c-9234-deac-f9ef36f24ff5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7277e756-8a81-0f58-a162-e85bcda9fe03",
+    "website": "9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002"
+  },
+  "course_title": "Cognitive Neuroscience of Remembering: Creating and Controlling Memory",
+  "course_description": "This course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n\nThis survey course is intended to review memory and its impact on our lives. Memories make us who we are, and make us what we are going to become. The loss of memory in amnesia can cause us to lose ourselves.\n\nMemory provides a bridge between past and present. Through memory, past sensations, feelings, and ideas that have dropped from conscious awareness can be subsequently recovered to guide current thought and action. In this manner, memory allows us to locate our car in the parking lot at the end of the day or guides us to avoid retelling the same joke to the same friend. This seminar will focus on how memories are created and controlled such that we are able to remember the past. Recent insights from non-human electrophysiological and human brain imaging research will be emphasized.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.93",
+  "course_image_thumbnail": {
+    "content": "0235316b-6695-a7af-01a0-5d784f899059",
+    "website": "9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002"
+  },
+  "learning_resource_types": [],
+  "site_uid": "cbd80e9d-22e0-4a7b-b1ee-0e33c0a67611",
+  "site_short_id": "9.93-january-iap-2002",
+  "site_url_path": "courses/9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002",
+  "title": "Course Metadata"
+}
